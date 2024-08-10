@@ -34,6 +34,12 @@ pip3 install torch torchvision torchaudio
 pip install -r requirements.txt
 ```
 
+## Results
+After training the model for 50000 iterations over the span of 3+ days using a 3070 GPU running locally, we were able to successully replicate the result of Mario completing World 1-1. Although this wasn't 100% on the test runs, the agent improved drastically over time compared to the random movements initially. We then did a live test run to a class of 30+ students, which Mario completed succesfully.
+
+## Learning Outcomes
+From this project, I learned about the basics of Reinforcement Learning, conceptually and using the OpenAI GYM API. I gave lessons on the concepts of agents, rewards, bellman-optimality, etc... Overall, this was a techincal challenge to learn something and teach it without having a large amount of knowledge on the topic but I was proud that I was able to answer questions my team had. 
+
 ## Resources
 - OpenAI Gym Documentation: (https://gymnasium.farama.org/)
 - Deep Q-Network Explained: (https://www.youtube.com/watch?v=x83WmvbRa2I&ab_channel=CodeEmporium)

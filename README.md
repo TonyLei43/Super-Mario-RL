@@ -1,6 +1,6 @@
-# DSU-W2024-Reinforcement-Learning
+# Super-Mario-RL
 
-We will try to replicate the success of using RL for Super Mario Bros. We will be following this video [here](https://www.youtube.com/watch?v=_gmQZToTMac&t=1310s&ab_channel=SourishKundu). 
+**GOAL**: We will try to replicate the success of using Reinforcement Learning for Super Mario Bros and understand basic RL concepts over the span of 4-5 weeks . We will be following this video [here](https://www.youtube.com/watch?v=_gmQZToTMac&t=1310s&ab_channel=SourishKundu). This project is purely for educational purposes and code belongs to the original owner. The code was dissected and rewritten in order to understand the workings of RL.
 
 ## Installation
 
